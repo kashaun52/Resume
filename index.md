@@ -1,6 +1,6 @@
 ## Kashaun Eghdam
-#### Email: Kashaun.eghdam@gmail.com | [Github](https://github.com/kashaun52)
-I'm currently a 3rd year student at the Univserity of Toronto.
+#### Toronto, ON | Kashaun.eghdam@gmail.com | [Github](https://github.com/kashaun52)
+I am a harding working and motivated indiviual with a pattion for both statistics and economics. I have strong communication skills gained throuhg previous work experiecned and work well in a collaberative environment. Excel in producing fully reproducible statistical analysises. 
 
 ## Education
 #### University of Toronto | Bachleor of Arts and Science            
@@ -9,8 +9,10 @@ Expected May 2022
 • Majoring in Statistics and Economics 
 
 • Cummulative GPA: 3.75/4
-#### Father John Redmond CSS | High School Diploma                   
-• Graduated with honours 
+#### Father John Redmond CSS | High School Diploma      
+Sep. 2014 - Jun. 2018
+
+• Graduated with honours society
 
 ## Experience 
 #### Sales Associate | Goodlife Fitness | Toronto, ON
@@ -18,9 +20,9 @@ Jul. 2017 - Aug. 2018
 
 • Managed front desk and greated customers 
 
-• Assited customers in person or over the phone with membership problems, complaints and other issues.
+• Assited customers in person or over the phone with membership problems, requests, complaints and other issues.
 
-• Sold gym memberships and other ammenities offer by the gym
+• Sold gym memberships and other ammenities offered by the gym
 
 #### Assistant cabinet maker | Concepts in Wood | Toronto, ON                      
 May 2019 - Present 
@@ -50,7 +52,7 @@ Dec. 2020
 
 • Utilized R, GitHub
 
-• Using Multinomial logistic regression with post-stratification to predict election results if voter turnont was 100% 
+• Utilized Multinomial logistic regression with post-stratification to predict election results if voter turnont was 100% 
 
 • Reccommened how to increase voter turnout numbers in canada and how parties can preform better in elections
 ## Skills
