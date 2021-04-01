@@ -1,4 +1,5 @@
 ## Kashaun Eghdam
+#### Email: Kashaun.eghdam@gmail.com | [Github](https://github.com/kashaun52)
 I'm currently a 3rd year student at the Univserity of Toronto.
 
 ## Education
@@ -45,16 +46,12 @@ Nov. 2020
 #### [The Effect of Voter Turnout on the 2019 Canadian Federl Election]("https://github.com/kashaun52/The-effect-of-voter-turnout-on-the-2019-canadian-federal-election")
 Dec. 2020
 
+• Determined Election results if voter turnout was 100% and compared them with actual results
+
 • Utilized R, GitHub
 
-• Determined Election results if voter turnout was 100%
+• Using Multinomial logistic regression with post-stratification to predict election results if voter turnont was 100% 
 
-• Utlized 
+• Reccommened how to increase voter turnout numbers in canada and how parties can preform better in elections
 ## Skills
-Statitiscall analysis | Microsoft execel | Coding in R | Customer Service | Sales
-
-
-## Contact information
-
-Email: Kashaun.eghdam@gmail.com
-[Github](https://github.com/kashaun52)
+Statitiscall analysis | Data visualization | Microsoft execel | Coding in R | Customer Service | Sales 
