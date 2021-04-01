@@ -1,41 +1,39 @@
 ## Kashaun Eghdam
-I'm currently a 3rd year student at the Univserity of Toronto. 
-You can use the [editor on GitHub](https://github.com/kashaun52/Resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
+I'm currently a 3rd year student at the Univserity of Toronto.
 
 ## Education
 #### University of Toronto | Bachleor of Arts and Science            
-• Expected May 2022
+Expected May 2022
 
 • Majoring in Statistics and Economics 
 
 • Cummulative GPA: 3.75/4
 #### Father John Redmond CSS | High School Diploma                   
+• Graduated with honours 
 
-## Work History 
-#### Sales Associate                                             
-Goodlife Fitness | Toronto, ON
+## Experience 
+#### Sales Associate | Goodlife Fitness | Toronto, ON
+Jul. 2017 - Aug. 2018
 
-• Jul. 2017 - Aug. 2018
-
-• Managed front desk
+• Managed front desk and greated customers 
 
 • Assited customers in person or over the phone with membership problems, complaints and other issues.
-• Sold gym memberships, drink
 
-#### Assistant cabinet maker                       
-• May 2019 - Present 
+• Sold gym memberships and other ammenities offer by the gym
 
-• Assisted in making kitchens, front doors, and other cabinetry work
+#### Assistant cabinet maker | Concepts in Wood | Toronto, ON                      
+May 2019 - Present 
+
+• Assisted in making of kitchens, front doors, and other cabinetry work
 
 • Sourced materials
 
 • Wrote quotes for clients 
 
-## Porfolio 
+## Portfolio 
 
-#### [Forecast of the 2020 US Presidental Elecetion]()
-• Nov. 2020
+#### [Forecast of the 2020 US Presidental Elecetion]("https://github.com/kashaun52/PS4")
+Nov. 2020
 
 • Collaboritively prooduced report in a team of 4
 
@@ -45,7 +43,7 @@ Goodlife Fitness | Toronto, ON
 
 • Used multivlevel logistic regression with post-stratification in order to predict election results 
 #### [The Effect of Voter Turnout on the 2019 Canadian Federl Election]("https://github.com/kashaun52/The-effect-of-voter-turnout-on-the-2019-canadian-federal-election")
-•Dec. 2020
+Dec. 2020
 
 • Utilized R, GitHub
 
