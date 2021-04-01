@@ -6,32 +6,55 @@ You can use the [editor on GitHub](https://github.com/kashaun52/Resume/edit/gh-p
 ## Education
 #### University of Toronto | Bachleor of Arts and Science            
 • Expected May 2022
+
 • Majoring in Statistics and Economics 
+
 • Cummulative GPA: 3.75/4
 #### Father John Redmond CSS | High School Diploma                   
 
 ## Work History 
 #### Sales Associate                                             
 Goodlife Fitness | Toronto, ON
+
 • Jul. 2017 - Aug. 2018
+
 • Managed front desk
+
 • Assited customers in person or over the phone with membership problems, complaints and other issues.
 • Sold gym memberships, drink
+
 #### Assistant cabinet maker                       
 • May 2019 - Present 
+
 • Assisted in making kitchens, front doors, and other cabinetry work
+
 • Sourced materials
+
 • Wrote quotes for clients 
 
 ## Porfolio 
 
 #### [Forecast of the 2020 US Presidental Elecetion]()
+• Nov. 2020
+
 • Collaboritively prooduced report in a team of 4
+
 • Utilized R, GitHub 
+
 • Acurately preicted the outcome of the 2020 US Presidental Election
+
 • Used multivlevel logistic regression with post-stratification in order to predict election results 
 #### [The Effect of Voter Turnout on the 2019 Canadian Federl Election]("https://github.com/kashaun52/The-effect-of-voter-turnout-on-the-2019-canadian-federal-election")
-• 
+•Dec. 2020
+
+• Utilized R, GitHub
+
+• Determined Election results if voter turnout was 100%
+
+• Utlized 
+## Skills
+Statitiscall analysis | Microsoft execel | Coding in R | Customer Service | Sales
+
 
 ## Contact information
 
