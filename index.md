@@ -1,30 +1,27 @@
-## Welcome to GitHub Pages
-
+## Kashaun Eghdam
+I'm currently a 3rd year student at the Univserity of Toronto. 
 You can use the [editor on GitHub](https://github.com/kashaun52/Resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Education
+### University of Toronto | Bachleor of Arts and Science            Expected May 2022
+• Majoring in Statistics and Economics 
+• Cummulative GPA: 3.75/4
+### Father John Redmond CSS | High School Diploma                   
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Work History 
+### Sales Associate                                             Jul. 2017 - Aug. 2018
+Goodlife Fitness | Toronto, ON
+• Managed front desk
+• Assited customers in person or over the phone with membership problems, complaints and other issues.
+• Sold gym memberships, drink
+### Assistant cabinet maker                                        May 2019 - Present 
+• Assisted in making kitchens, front doors, and other cabinetry work
+• Sourced materials
+• Wrote quotes for clients 
 
-```markdown
-Syntax highlighted code block
+### Porfolio 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
@@ -32,6 +29,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kashaun52/Resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Contact information
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Email: Kashaun.eghdam@gmail.com
+[Github](https://github.com/kashaun52)
