@@ -1,6 +1,6 @@
 ## Kashaun Eghdam
 #### Toronto, ON | Kashaun.eghdam@gmail.com | [Github](https://github.com/kashaun52)
-I am a hardworking and motivated individual with a passion for both statistics and economics. I have strong communication skills gained through previous work experience and work well in a collaborative environment. Excel in producing fully reproducible statistical analysis’s.
+I am a hardworking and motivated individual with a passion for both statistics and economics. I have strong communication skills gained through previous work experience and work well in a collaborative environment. I also excel at and love producing statistical analysis’s.
 
 ## Education
 #### University of Toronto | Bachelor of Arts and Science            
