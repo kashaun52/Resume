@@ -35,7 +35,7 @@ May 2019 - Present
 
 ## Portfolio 
 
-#### [Forecast of the 2020 US Presi dential Election![Uploading image.png…]("https://github.com/kashaun52/PS4")
+#### [Forecast of the 2020 US Presidential Election]("https://github.com/kashaun52/PS4")
 Nov. 2020
 
 • Collaboratively produced report in a team of 4
