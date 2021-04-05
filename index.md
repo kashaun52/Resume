@@ -35,7 +35,7 @@ May 2019 - Present
 
 ## Portfolio 
 
-#### [Forecast of the 2020 US Presidential Election]("https://github.com/kashaun52/PS4")
+#### [Forecast of the 2020 US Presidential Election](https://github.com/kashaun52/PS4)
 Nov. 2020
 
 • Collaboratively produced report in a team of 4
@@ -45,7 +45,7 @@ Nov. 2020
 • Accurately predicted the outcome of the 2020 US Presidential Election
 
 • Used multilevel logistic regression with post-stratification in order to predict election results 
-#### [The Effect of Voter Turnout on the 2019 Canadian Federal Election]("https://github.com/kashaun52/The-effect-of-voter-turnout-on-the-2019-canadian-federal-election")
+#### [The Effect of Voter Turnout on the 2019 Canadian Federal Election](https://github.com/kashaun52/The-effect-of-voter-turnout-on-the-2019-canadian-federal-election)
 Dec. 2020
 
 • Determined Election results if voter turnout was 100% and compared them with actual results
